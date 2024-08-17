@@ -16,7 +16,7 @@ export const experiences = [
     title: "FullStack Developer",
     company: "ECW Track",
     duration: "(Jan 2022 - July 2022)"
-  }
+  },
   {
     id:4,
     title: "Developer",
