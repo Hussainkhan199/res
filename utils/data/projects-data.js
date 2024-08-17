@@ -11,7 +11,7 @@ export const projectsData = [
         tools: ['Wordpress', 'Mysql', 'Chatgpt', 'Google APIs', 'PHP', 'Plugins', 'javascript', 'APIs', 'Woocommerce'],
         role: 'Full Stack Developer',
         code: '',
-        demo: 'https://www.talkdailyinc.com/',
+        demo: '',
         image: '',
     },
     {
