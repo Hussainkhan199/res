@@ -16,9 +16,9 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
+        name: 'Travel Agency Web App',
+        description: 'I have designed and developed a full-stack web app for a Travel Agency based in UK. I created UI with Figma. and for frontend I use Blade Template with Bootstrap and CSS. This web app support multiple langauges for differnet Users. Added Google APIs, captcha for verificaton. Created CMS panels for easy management for Admins and Uses POVs, Created Role base permission.',
+        tools: ['Laravel', 'Blade Template', "Google Maps", "Bootstrap", "Travels Api", "MySQL", "Captcha", "Validation Api", "CSS", "Figma"],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
