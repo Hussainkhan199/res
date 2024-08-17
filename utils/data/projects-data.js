@@ -37,8 +37,8 @@ export const projectsData = [
     {
         id: 4,
         name: 'POS',
-        description: "",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
+        description: "Developed a POS which includes features like inventory management, customer tracking, and sales reporting, enabling businesses to streamline operations, track sales, and improve customer service.",
+        tools: ['PHP', 'Material UI', 'MVC', 'Bootstrap', "Calendar"],
         code: '',
         demo: '',
         image: '',
