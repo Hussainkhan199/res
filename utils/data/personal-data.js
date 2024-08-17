@@ -6,7 +6,7 @@ export const personalData = {
   email: 'mhussain.programmer@gmail.com',
   phone: '+92 3165558958',
   address: 'Mardan KPK, Pakistan ',
-  github: 'hhttps://github.com/Hussainkhan199',
+  github: 'https://github.com/Hussainkhan199',
   facebook: '#',
   linkedIn: 'https://www.linkedin.com/in/hussain-khan-programmer',
   twitter: '#',
