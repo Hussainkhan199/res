@@ -8,17 +8,14 @@ export const skillsData = [
   'Tailwind',
   'MongoDB',
   'MySQL',
-  'PostgreSQL',
+  'PHP',
   'Git',
-  'AWS',
+  'Laravel',
   'Bootstrap',
-  'Docker',
-  'Go',
+  'Wordpress',
   'Figma',
-  'Firebase',
   'MaterialUI',
   'Nginx',
-  'Strapi'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
